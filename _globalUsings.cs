@@ -1,0 +1,1 @@
+﻿global using WebResult = Microsoft.AspNetCore.Http.IResult;
